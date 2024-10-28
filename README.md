@@ -1,7 +1,8 @@
 # Yafuzz
 Yeat another Fuzzer,this is pretty much the thing. :p
- ![Screenshot_2024-10-14_00_11_01](https://github.com/user-attachments/assets/c78d2af4-17a8-49ee-9b58-edd91ab2084c)
- 
+
+![Screenshot_2024-10-27_22_16_13](https://github.com/user-attachments/assets/cde91375-266c-4c47-a516-70e5244a8c85)
+
   -to run just clone the repository with git clone and run the pip install -r requirements.txt
 
   
